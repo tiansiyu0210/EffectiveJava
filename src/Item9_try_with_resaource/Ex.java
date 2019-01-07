@@ -1,10 +1,12 @@
 package Item9_try_with_resaource;
 
 import java.io.*;
+import java.math.BigInteger;
 
 public class Ex {
 
     private static final int BUFFER_SIZE = 16;
+    BigInteger t = null;
 
     //try-with-resources on multiple resources
     static void copy(String src, String dst) throws IOException {
