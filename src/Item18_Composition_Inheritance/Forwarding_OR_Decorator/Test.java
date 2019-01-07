@@ -11,6 +11,7 @@ public class Test {
         CollegeSchoolStudent cs = new CollegeSchoolStudent(new StudentImpl());
         cs.learnBusiness();
         cs.learnChinese();
+
     }
 
 }
