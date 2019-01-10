@@ -10,5 +10,6 @@ public class Test {
         System.out.println("========================================");
         WorkComputer workComputer = new WorkComputer();
         workComputer.process();
+
     }
 }

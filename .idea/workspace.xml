@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae8e0950-7681-4247-8aa5-f0a6b723e2fe" name="Default Changelist" comment="Item 18">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/AbstractComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/ComputerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/HomeComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/WorkComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Super.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Test.java" afterDir="false" />
+    <list default="true" id="ae8e0950-7681-4247-8aa5-f0a6b723e2fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,8 +106,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -248,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547096566092" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547096803824" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -346,7 +337,7 @@
       <workItem from="1546826869633" duration="2209000" />
       <workItem from="1546829748493" duration="582000" />
       <workItem from="1546830357947" duration="572000" />
-      <workItem from="1547088554974" duration="5887000" />
+      <workItem from="1547088554974" duration="6130000" />
     </task>
     <task id="LOCAL-00001" summary="Item 9 try-with-resources">
       <created>1546628183181</created>
@@ -369,17 +360,24 @@
       <option name="project" value="LOCAL" />
       <updated>1546830192331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Item 19">
+      <created>1547096787941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547096787941</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14027000" />
+    <option name="totallyTimeSpent" value="14270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17210847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17210847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997233" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986165" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,7 +471,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Item 9 try-with-resources" />
     <MESSAGE value="Item 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Item 18" />
+    <MESSAGE value="Item 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Item 19" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Item18_Composition_Inheritance/Forwarding.java" />
@@ -677,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
