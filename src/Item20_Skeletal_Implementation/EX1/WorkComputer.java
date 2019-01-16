@@ -1,4 +1,4 @@
-package Item19_Skeletal_Implementation.EX1;
+package Item20_Skeletal_Implementation.EX1;
 
 public class WorkComputer extends ComputerService implements Computer{
 
