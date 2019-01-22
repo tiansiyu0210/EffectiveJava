@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae8e0950-7681-4247-8aa5-f0a6b723e2fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Item30_Generic_Singleton_Factory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item33_Typesafe_Heterogeneous_Continers/Favorites.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/AbstractComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/ComputerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/HomeComputer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/HomeComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/WorkComputer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/WorkComputer$AbstractComputerDelegator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EffectiveJava/Item19_Skeletal_Implementation/EX1/WorkComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/AbstractComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/AbstractComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/ComputerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/ComputerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/HomeComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/HomeComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item19_Skeletal_Implementation/EX1/WorkComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/WorkComputer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,22 +15,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/HomeComputer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-              <folding>
-                <element signature="e#724#725#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/WorkComputer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state>
               <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="e#847#848#0" expanded="true" />
@@ -58,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="345">
               <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,15 +39,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Item30_Generic_Singleton_Factory/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="360">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Item33_Typesafe_Heterogeneous_Continers/Favorites.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding>
-                <element signature="e#175#205#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,6 +162,7 @@
         <option value="$PROJECT_DIR$/src/Item18_Composition_Inheritance/Inheritance/Test.java" />
         <option value="$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Test.java" />
         <option value="$PROJECT_DIR$/src/Item30_Generic_Singleton_Factory/Test.java" />
+        <option value="$PROJECT_DIR$/src/Item33_Typesafe_Heterogeneous_Continers/Favorites.java" />
       </list>
     </option>
   </component>
@@ -192,8 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547603984145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548130720565" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
@@ -240,7 +224,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Favorites">
+    <configuration name="Favorites" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Item33_Typesafe_Heterogeneous_Continers.Favorites" />
+      <module name="EffectiveJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Item33_Typesafe_Heterogeneous_Continers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Item18_Composition_Inheritance.Inheritance.Test" />
       <module name="EffectiveJava" />
@@ -280,19 +277,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Item1_static_factor_method.EX1.Test" />
-      <module name="EffectiveJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Item1_static_factor_method.EX1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test111" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="/usr/lib/jvm/java-8-openjdk-amd64/jre" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -309,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Test111" />
       <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Favorites" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Favorites" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test111" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +327,8 @@
       <workItem from="1547088554974" duration="6808000" />
       <workItem from="1547132810089" duration="3748000" />
       <workItem from="1547432234971" duration="1676000" />
-      <workItem from="1547603450161" duration="1154000" />
+      <workItem from="1547603450161" duration="1187000" />
+      <workItem from="1548128526829" duration="1224000" />
     </task>
     <task id="LOCAL-00001" summary="Item 9 try-with-resources">
       <created>1546628183181</created>
@@ -391,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21526000" />
+    <option name="totallyTimeSpent" value="22783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -406,8 +391,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4997233" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4969563" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964029" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4997233" visible="true" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -415,9 +400,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4986165" weight="0.3790497" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030437" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002767" side_tool="true" visible="true" weight="0.39956802" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4991699" weight="0.32937366" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,6 +411,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,6 +479,18 @@
     <MESSAGE value="Item 18" />
     <MESSAGE value="Item 19" />
     <option name="LAST_COMMIT_MESSAGE" value="Item 19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Item33_Typesafe_Heterogeneous_Continers/Favorites.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Item18_Composition_Inheritance/Forwarding.java" />
@@ -608,6 +605,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/HomeComputer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -621,11 +625,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/WorkComputer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state>
           <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <element signature="e#847#848#0" expanded="true" />
             <element signature="e#898#899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -675,31 +689,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Item20_Skeletal_Implementation/EX1/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Item30_Generic_Singleton_Factory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        <state relative-caret-position="360">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Objects.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Item33_Typesafe_Heterogeneous_Continers/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding>
-            <element signature="e#175#205#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
           </folding>
         </state>
       </provider>
